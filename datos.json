@@ -1,0 +1,56 @@
+[
+    {
+        "titulo": "SmartClarity",
+        "categoria": "Branding Corporativo",
+        "imagen": "images/i1.jpg",
+        "alt": "SmartClarity"
+    },
+    {
+       "titulo": "Mobiliario",
+       "categoria": "Diseño para la emergencia",
+        "imagen": "images/i2.png",
+        "alt": "Mobiliario"
+    },
+    {
+        "titulo": "Colacionables",
+       "categoria": "Juego",
+        "imagen": "images/i3.png",
+       "alt": "Colacionables"
+    },
+    {
+        "titulo": "Cuidemonos",
+        "categoria": "App",
+        "imagen": "images/i4.png",
+        "alt": "Cuidemonos"
+    },
+    {
+        "titulo": "Khaterine",
+        "categoria": "Tarjeta de presentación",
+        "imagen": "images/i5.png",
+        "alt": "Khaterine"
+    },
+    {
+        "titulo": "CoAlert",
+        "categoria": "App",
+        "imagen": "images/i6.png",
+        "alt": "CoAlert"
+    },
+    {
+        "titulo": "Colacionables",
+        "categoria": "Packaging",
+        "imagen": "images/i7.png",
+        "alt": "Colacionables"
+    },
+    {
+        "titulo": "Mundo Tattoo",
+        "categoria": "Álbum coleccionable",
+       "imagen": "images/i8.png",
+        "alt": "Mundo Tattoo"
+    },
+    {
+        "titulo": "Sociología UC",
+        "categoria": "Diseño UX/UI",
+        "imagen": "images/i9.png",
+       "alt": "Sociología UC"
+    }
+];
