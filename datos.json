@@ -2,55 +2,56 @@
     {
         "titulo": "SmartClarity",
         "categoria": "Branding Corporativo",
-        "imagen": "images/i1.jpg",
+        "imagen": "https://palomar-0.github.io/Clase_10/images/i1.webp",
         "alt": "SmartClarity"
     },
     {
        "titulo": "Mobiliario",
        "categoria": "Diseño para la emergencia",
-        "imagen": "images/i2.png",
+        "imagen": "https://palomar-0.github.io/Clase_10/images/i2.webp",
         "alt": "Mobiliario"
     },
     {
         "titulo": "Colacionables",
        "categoria": "Juego",
-        "imagen": "images/i3.png",
+        "imagen": "https://palomar-0.github.io/Clase_10/images/i3.webp",
        "alt": "Colacionables"
     },
     {
         "titulo": "Cuidemonos",
         "categoria": "App",
-        "imagen": "images/i4.png",
+        "imagen": "https://palomar-0.github.io/Clase_10/images/i4.webp",
         "alt": "Cuidemonos"
     },
     {
         "titulo": "Khaterine",
         "categoria": "Tarjeta de presentación",
-        "imagen": "images/i5.png",
+        "imagen": "https://palomar-0.github.io/Clase_10/images/i5.webp",
         "alt": "Khaterine"
     },
     {
         "titulo": "CoAlert",
         "categoria": "App",
-        "imagen": "images/i6.png",
+        "imagen": "https://palomar-0.github.io/Clase_10/images/i6.webp",
         "alt": "CoAlert"
     },
     {
         "titulo": "Colacionables",
         "categoria": "Packaging",
-        "imagen": "images/i7.png",
+        "imagen": "https://palomar-0.github.io/Clase_10/images/i7.webp",
         "alt": "Colacionables"
     },
     {
         "titulo": "Mundo Tattoo",
         "categoria": "Álbum coleccionable",
-       "imagen": "images/i8.png",
+       "imagen": "https://palomar-0.github.io/Clase_10/images/i8.webp",
         "alt": "Mundo Tattoo"
     },
     {
         "titulo": "Sociología UC",
         "categoria": "Diseño UX/UI",
-        "imagen": "images/i9.png",
+        "imagen": "https://palomar-0.github.io/Clase_10/images/i9.webp",
        "alt": "Sociología UC"
     }
 ]
+
