@@ -30,4 +30,5 @@ async function datos(raw) {
     }
 }
 
-datos("https://raw.githubusercontent.com/Palomar-0/Clase_10/refs/heads/main/datos.json");
+
+datos("https://raw.githubusercontent.com/Palomar-0/Clase_10/main/datos.json");
