@@ -1,0 +1,56 @@
+[
+    {
+        "titulo": "SmartClarity",
+        "categoria": "Branding Corporativo",
+        "imagen": "https://palomar-0.github.io/Clase_10/images/i1.webp",
+        "alt": "SmartClarity"
+    },
+    {
+       "titulo": "Mobiliario",
+       "categoria": "Diseño para la emergencia",
+        "imagen": "https://palomar-0.github.io/Clase_10/images/i2.webp",
+        "alt": "Mobiliario"
+    },
+    {
+        "titulo": "Colacionables",
+       "categoria": "Juego",
+        "imagen": "https://palomar-0.github.io/Clase_10/images/i3.webp",
+       "alt": "Colacionables"
+    },
+    {
+        "titulo": "Cuidemonos",
+        "categoria": "App",
+        "imagen": "https://palomar-0.github.io/Clase_10/images/i4.webp",
+        "alt": "Cuidemonos"
+    },
+    {
+        "titulo": "Khaterine",
+        "categoria": "Tarjeta de presentación",
+        "imagen": "https://palomar-0.github.io/Clase_10/images/i5.webp",
+        "alt": "Khaterine"
+    },
+    {
+        "titulo": "CoAlert",
+        "categoria": "App",
+        "imagen": "https://palomar-0.github.io/Clase_10/images/i6.webp",
+        "alt": "CoAlert"
+    },
+    {
+        "titulo": "Colacionables",
+        "categoria": "Packaging",
+        "imagen": "https://palomar-0.github.io/Clase_10/images/i7.webp",
+        "alt": "Colacionables"
+    },
+    {
+        "titulo": "Mundo Tattoo",
+        "categoria": "Álbum coleccionable",
+       "imagen": "https://palomar-0.github.io/Clase_10/images/i8.webp",
+        "alt": "Mundo Tattoo"
+    },
+    {
+        "titulo": "Sociología UC",
+        "categoria": "Diseño UX/UI",
+        "imagen": "https://palomar-0.github.io/Clase_10/images/i9.webp",
+       "alt": "Sociología UC"
+    }
+]
